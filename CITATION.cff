@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: ehristoforu
+title: "reMAX Mod"
+date-released: 2025-08-26
+url: "https://github.com/remax-mode/remax"
