@@ -46,6 +46,34 @@
 *   [Подробный отчёт для iOS](reports/README_ios_detailed.md)
 *   [Подробный отчёт для Windows](reports/README_windows_detailed.md)
 
+## Антивирусы
+
+### Android (APK)
+<details>
+<summary>Jotti's malware scan</summary>
+<img src="assets/jotti_av_apk.png" alt="Jotti's malware scan for Android APK"/>
+</details>
+<details>
+<summary>VirusTotal scan</summary>
+<img src="assets/virustototal_av_apk.png" alt="VirusTotal scan for Android APK"/>
+
+> [!INFO]  
+> Внимание! PUP/Android.Malct.1190475 — это 100% не вирус, а всего лишь потенциально нежелательное приложение (мод). Оно не наносит вреда устройству и не содержит вредоносных функций. Антивирус предупреждает из-за модификаций или нестандартных функций, но это не угроза безопасности. Можно спокойно использовать, если уверены в источнике файла. 
+> [![Static Badge](https://img.shields.io/badge/Verified_via-Malwarebytes-green?style=for-the-badge)](https://www.malwarebytes.com/ru/cybersecurity/basics/what-is-pup)
+
+
+</details>
+
+### iOS (IPA)
+<details>
+<summary>Jotti's malware scan</summary>
+<img src="assets/jotti_av_ipa.png" alt="Jotti's malware scan for iOS IPA"/>
+</details>
+<details>
+<summary>VirusTotal scan</summary>
+<img src="assets/virustotal_av_ipa.png" alt="VirusTotal scan for iOS IPA"/>
+</details>
+
 ## Инструкция по установке
 
 1.  Удалите оригинальный MAX.
