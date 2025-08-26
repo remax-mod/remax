@@ -2,7 +2,7 @@
   <img src="assets/icon.png" alt="Remax Icon" width="150"/>
 </p>
 
-# <center>**Remax Mod**</center>
+# <center>**reMAX Mod**</center>
 
 ![Static Badge](https://img.shields.io/badge/Apps_Version-25.9.0-blue?style=for-the-badge)
 [![Static Badge](https://img.shields.io/badge/Platforms-Android%2C_iOS%2C_Windows-red?style=for-the-badge)](https://github.com/remax-mod/remax/releases)
