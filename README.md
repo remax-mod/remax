@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Remax Icon" width="260"/>
+  <img src="assets/banner.png" alt="Remax Icon" width="350"/>
 </p>
 
 
