@@ -57,7 +57,7 @@
 <summary>VirusTotal scan</summary>
 <img src="assets/virustototal_av_apk.png" alt="VirusTotal scan for Android APK"/>
 
-> [!INFO]  
+> [!IMPORTANT]  
 > Внимание! PUP/Android.Malct.1190475 — это 100% не вирус, а всего лишь потенциально нежелательное приложение (мод). Оно не наносит вреда устройству и не содержит вредоносных функций. Антивирус предупреждает из-за модификаций или нестандартных функций, но это не угроза безопасности. Можно спокойно использовать, если уверены в источнике файла. 
 > [![Static Badge](https://img.shields.io/badge/Verified_via-Malwarebytes-green?style=for-the-badge)](https://www.malwarebytes.com/ru/cybersecurity/basics/what-is-pup)
 
