@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/icon.png" alt="Remax Icon" width="150"/>
+  <img src="assets/banner.png" alt="Remax Icon" width="720"/>
 </p>
+
 
 # <center>**reMAX Mod**</center>
 
