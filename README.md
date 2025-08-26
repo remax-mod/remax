@@ -51,7 +51,6 @@
 ## Упоминание
 
 ```bibtex
-import math
 @software{ehristoforu_reMAX_Mod_2025,
   author = {ehristoforu},
   month = aug,
