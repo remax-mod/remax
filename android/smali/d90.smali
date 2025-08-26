@@ -1,0 +1,42 @@
+.class public final Ld90;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Lmy9;
+
+
+# static fields
+.field public static final a:Ld90;
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 1
+
+    new-instance v0, Ld90;
+
+    invoke-direct {v0}, Ljava/lang/Object;-><init>()V
+
+    sput-object v0, Ld90;->a:Ld90;
+
+    const-string v0, "messagingClientEventExtension"
+
+    invoke-static {v0}, Lkf5;->a(Ljava/lang/String;)Lkf5;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final a(Ljava/lang/Object;Ljava/lang/Object;)V
+    .locals 0
+
+    invoke-static {p1}, Lau1;->r(Ljava/lang/Object;)V
+
+    check-cast p2, Lny9;
+
+    const/4 p0, 0x0
+
+    throw p0
+.end method

@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/cloud-user/builder/workspace/5-ONEME-Release-TestFlight/ios/SDK/AuthorizationUI/Source/Shaders/RaysShader.metal \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/metal/32023/lib/clang/32023.620/include/metal/module.modulemap
