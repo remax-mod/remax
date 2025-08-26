@@ -5,9 +5,9 @@
 # <center>**Remax Mod**</center>
 
 ![Static Badge](https://img.shields.io/badge/Apps_Version-25.9.0-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Platforms-Android%2C_iOS%2C_Windows-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fremax-mod%2Fremax%2Freleases)
-![Static Badge](https://img.shields.io/badge/License-GPL--3.0-green?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fremax-mod%2Fremax%2Fblob%2Fmain%2FLICENSE)
-![Static Badge](https://img.shields.io/badge/Telegram-%40remaxmod-pink?style=for-the-badge&link=https%3A%2F%2Ft.me%2Fremaxmod)
+[![Static Badge](https://img.shields.io/badge/Platforms-Android%2C_iOS%2C_Windows-red?style=for-the-badge)](https://github.com/remax-mod/remax/releases)
+[![Static Badge](https://img.shields.io/badge/License-GPL--3.0-green?style=for-the-badge)](LICENSE)
+[![Static Badge](https://img.shields.io/badge/Telegram-%40remaxmod-pink?style=for-the-badge)](https://t.me/remaxmod)
 
 Данный мод представляет собой модифицированную версию приложения MAX, разработанную с целью повышения конфиденциальности и безопасности пользователя.
 
@@ -16,14 +16,14 @@
 *   **Версия:** 25.9.0
 *   **Платформы:**
     *   **Нативно:** Android (минимальная версия 10), iOS (минимальная версия 15.4)
-    *   **Транслятором:** Windows (7 и выше)
+    *   **Транслятор:** Windows (7 и выше)
 
 ## Проделанная работа
 
 *   [x] Разобраны и проанализированы установочные пакеты
 *   [x] Убраны подозрительные разрешения
 *   [x] Убраны трекеры активности
-*   [x] Убраны автозапуск
+*   [x] Убран автозапуск
 *   [x] Убрана работа в фоновом режиме
 *   [x] Выключены fingerprint функции
 
