@@ -95,7 +95,7 @@
   title = {{reMAX Mod}},
   url = {https://github.com/remax-mode/remax},
   year = {2025}
-}
+} 
 ```
 
 ## Star History
