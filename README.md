@@ -100,12 +100,6 @@
 
 ## Star History
 
-## Star History
-
-## Star History
-
-## Star History
-
 <a href="https://www.star-history.com/#remax-mod/remax&Date">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=remax-mod/remax&type=Date" />
