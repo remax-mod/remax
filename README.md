@@ -8,6 +8,7 @@
 [![Static Badge](https://img.shields.io/badge/Platforms-Android%2C_iOS%2C_Windows-red?style=for-the-badge)](https://github.com/remax-mod/remax/releases)
 [![Static Badge](https://img.shields.io/badge/License-GPL--3.0-green?style=for-the-badge)](LICENSE)
 [![Static Badge](https://img.shields.io/badge/Telegram-%40remaxmod-pink?style=for-the-badge)](https://t.me/remaxmod)
+[![Static Badge](https://img.shields.io/badge/TikTok-%40modremax-yellow?style=for-the-badge)](https://tiktok.com/@modremax)
 
 Данный мод представляет собой модифицированную версию приложения MAX, разработанную с целью повышения конфиденциальности и безопасности пользователя.
 
